@@ -1,0 +1,31 @@
+_repo: The-Life-of-the-Rt-Hon-Sir-Charles-W-Dilke-Volume-2_8540
+alternative_title: The Life of the Right Honorable Sir Charles W. Dilke, Volume 2
+contributor:
+  creator:
+    editor:
+      agent_name: Tuckwell, Gertrude M.
+      gutenberg_agent_id: '38687'
+      url: http://www.gutenberg.org/2009/agents/38687
+creator:
+  author:
+    agent_name: Gwynn, Stephen Lucius
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '2451'
+    url: http://www.gutenberg.org/2009/agents/2451
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dilke, Charles Wentworth, Sir, 1843-1911'
+- !lcsh 'Great Britain -- Politics and government -- 19th century'
+- !lcc 'DA'
+title: The Life of the Rt. Hon. Sir Charles W. Dilke, Volume 2
+url: http://www.gutenberg.org/ebooks/8540
