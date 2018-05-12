@@ -1,4 +1,5 @@
 _repo: The-Life-of-the-Rt-Hon-Sir-Charles-W-Dilke-Volume-2_8540
+_version: 0.1.0
 alternative_title: The Life of the Right Honorable Sir Charles W. Dilke, Volume 2
 contributor:
   creator:
@@ -6,6 +7,9 @@ contributor:
       agent_name: Tuckwell, Gertrude M.
       gutenberg_agent_id: '38687'
       url: http://www.gutenberg.org/2009/agents/38687
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gwynn, Stephen Lucius
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2451
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8540#The-Life-of-the-Rt-Hon-Sir-Charles-W-Dilke-Volume-2
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
